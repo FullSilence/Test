@@ -1,0 +1,6 @@
+C:\Users\Hromo\Desktop\Обучение Михаила\Projects\TestTerraria\TestTerraria\bin\Debug\TestTerraria.exe.config
+C:\Users\Hromo\Desktop\Обучение Михаила\Projects\TestTerraria\TestTerraria\obj\Debug\TestTerraria.csprojResolveAssemblyReference.cache
+C:\Users\Hromo\Desktop\Обучение Михаила\Projects\TestTerraria\TestTerraria\bin\Debug\TestTerraria.exe
+C:\Users\Hromo\Desktop\Обучение Михаила\Projects\TestTerraria\TestTerraria\bin\Debug\TestTerraria.pdb
+C:\Users\Hromo\Desktop\Обучение Михаила\Projects\TestTerraria\TestTerraria\obj\Debug\TestTerraria.exe
+C:\Users\Hromo\Desktop\Обучение Михаила\Projects\TestTerraria\TestTerraria\obj\Debug\TestTerraria.pdb
